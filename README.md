@@ -1,5 +1,6 @@
 # BLUTOPIA
-Data visualisation - ongoing work
+Data visualisation for the NGO Blutopia - ongoing work  
+Visuals for the upcoming campaign "Les Bonnes Vivantes".
 
 ## Shop map
 Creation of an interactive map of France, which displays shops that sell seaweeds.
