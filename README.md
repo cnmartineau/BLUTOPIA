@@ -49,6 +49,83 @@ Numerical values are given in milligrams of mineral for 100g of dehydrated seawe
 <img width="1200" height="800" alt="minerals" src="https://github.com/user-attachments/assets/93258257-369a-4670-95a0-09edfcfed94f" />
 <br>
 
+## Health section - Iodine
+### Notebook
+iodine.ipynb
+### References
+CEVA - Composition nutritionnelle des algues
+<br>
+https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues-alimentaires/
+### Aim
+Create a bar graph to display iodine concentration for relevant seaweeds.<br>
+Compare seaweeds to some relevant common food (wip).
+### Info
+Numerical values are given in milligrams of iodine for 100g of dehydrated seaweed.
+### Preview
+<img width="800" height="800" alt="iodine" src="https://github.com/user-attachments/assets/770f8bef-f3ad-4505-82a8-85955d15a163" />
+<br>
+
+## Health section - Iodine per day
+### Notebook
+iodineperday.ipynb
+### References
+CEVA - Composition nutritionnelle des algues
+<br>
+https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues-alimentaires/
+<br>
+EFSA - Dietary Reference Values for nutrients Summary report
+<br>
+https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/sp.efsa.2017.e15121
+<br>
+ANSES - Iode : pourquoi et comment en consommer? Avis de l’ANSES relatif au risque d’excès d’apport en iode lié à la consommation d’algues dans les denrées alimentaires
+<br>
+https://www.anses.fr/system/files/NUT2017SA0086.pdf
+### Aim
+Create a bar graph to display nutritional recommendations for iodine (for children, adults, and pregnant women).<br>
+Relate to iodine intake with 1, 2, and 5 grams of 3 different seaweeds.
+### Info
+Numerical values are given in micrograms of iodine per day.<br>
+For each seaweed, quantities of iodine were calculated for dehydrated algae.
+### Preview
+<img width="800" height="400" alt="iodineperday" src="https://github.com/user-attachments/assets/ffa5f147-ef39-4a77-a496-5f7c7e66925d" />
+<br>
+
+## Environment section - Carbon sinks
+### Notebook
+carbon_sinks.ipynb
+### References
+Global Seaweed - The state of the world’s seaweeds 2025
+<br>
+https://globalseaweed.org/wp-content/uploads/2025/05/State-of-the-Worlds-Seaweeds_FINAL_DOI.pdf
+<br>
+Eger AM, Marzinelli EM, Beas-Luna R, Blain CO, Blamey LK, Byrnes JEK, Carnell PE, Choi CG, Hessing-Lewis M, Kim KY, Kumagai NH, Lorda J, Moore P, Nakamura Y, Pérez-Matus A, Pontier O, Smale D, Steinberg PD, Vergés A. The value of ecosystem services in global marine kelp forests. Nat Commun. 2023 Apr 18;14(1):1894. doi: 10.1038/s41467-023-37385-0. Erratum in: Nat Commun. 2023 May 18;14(1):2841. doi: 10.1038/s41467-023-38666-4. PMID: 37072389; PMCID: PMC10113392.
+<br>
+Pan, Y., Birdsey, R.A., Phillips, O.L. et al. The enduring world forest carbon sink. Nature631, 563–569 (2024). https://doi.org/10.1038/s41586-024-07602-x.
+<br>
+Laffoley, D. and Grimsditch, G.D., 2009. The management of natural coastal carbon sinks. IUCN, Gland, Switzerland.
+<br>
+Alongi, D. M., 2012. Carbon sequestration in mangrove forests. Carbon Management, 3(4), 313- 322.
+### Aim
+Create a graph to compare carbon sequestration in different types of ecosystems, including kelp forests of different genera. 
+### Info
+Rate of carbon sequestration for 6 genera of kelp (Ecklonia, Laminaria, Lessonia, Macrocystis, Nereocystis et Saccharina) given in g/m2/year.
+### Preview
+<img width="600" height="500" alt="carbon_sinks" src="https://github.com/user-attachments/assets/88368131-8b71-4f5c-9fb8-5eddf6916636" />
+<br>
+
+## Environment section - Living Planet Index
+### Notebook
+wip
+### References
+WWF (2024) Living Planet Report 2024 – A System in Peril. WWF, Gland, Switzerland.<br>
+Deinet S, Marconi V, Freeman R, Puleston H, McRae L. Living Planet Report 2024 Technical Supplement: Living Planet Index. ZSL, 2024. https://doi.org/10.17605/OSF.IO/6TE9H
+### Aim
+Calculate and display the marine LPI (Living Planet Index) between 1970 and 2020.
+### Info
+The marine LPI was determined by bootstrapping (10.000 repeats of 500 randomly selected species).
+### Preview
+
+
 
 <br><br>
 ... wip ... more to come soon ...
