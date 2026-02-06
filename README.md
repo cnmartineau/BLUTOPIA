@@ -10,7 +10,8 @@ Creation of interactive visuals for the website of the upcoming campaign "Les Bo
 ### Notebook
 shops_map.ipynb
 ### Aim
-Create an interactive store locator to help people find shops that sell seaweeds in France.<br>
+Create an interactive store locator to help people find shops that sell seaweeds in France.
+### Info
 Shops are clustered and displayed by category.<br>
 Shop addresses are displayed in interactive labels, wich are also links to redirect users to shop websites.
 ### Preview
@@ -20,7 +21,7 @@ Shop addresses are displayed in interactive labels, wich are also links to redir
 ## Health section - Macronutrients
 ### Notebook
 nutrients.ipynb
-### References
+### Reference
 CEVA - Composition nutritionnelle des algues
 <br>
 https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues-alimentaires/
@@ -36,7 +37,7 @@ Numerical values are given in grams of nutrient for 100g of dehydrated seaweed.
 ## Health section - Minerals
 ### Notebook
 minerals.ipynb
-### References
+### Reference
 CEVA - Composition nutritionnelle des algues
 <br>
 https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues-alimentaires/
@@ -52,7 +53,7 @@ Numerical values are given in milligrams of mineral for 100g of dehydrated seawe
 ## Health section - Iodine
 ### Notebook
 iodine.ipynb
-### References
+### Reference
 CEVA - Composition nutritionnelle des algues
 <br>
 https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues-alimentaires/
@@ -72,11 +73,11 @@ iodineperday.ipynb
 CEVA - Composition nutritionnelle des algues
 <br>
 https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues-alimentaires/
-<br>
+<br><br>
 EFSA - Dietary Reference Values for nutrients Summary report
 <br>
 https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/sp.efsa.2017.e15121
-<br>
+<br><br>
 ANSES - Iode : pourquoi et comment en consommer? Avis de l’ANSES relatif au risque d’excès d’apport en iode lié à la consommation d’algues dans les denrées alimentaires
 <br>
 https://www.anses.fr/system/files/NUT2017SA0086.pdf
@@ -97,13 +98,13 @@ carbon_sinks.ipynb
 Global Seaweed - The state of the world’s seaweeds 2025
 <br>
 https://globalseaweed.org/wp-content/uploads/2025/05/State-of-the-Worlds-Seaweeds_FINAL_DOI.pdf
-<br>
+<br><br>
 Eger AM, Marzinelli EM, Beas-Luna R, Blain CO, Blamey LK, Byrnes JEK, Carnell PE, Choi CG, Hessing-Lewis M, Kim KY, Kumagai NH, Lorda J, Moore P, Nakamura Y, Pérez-Matus A, Pontier O, Smale D, Steinberg PD, Vergés A. The value of ecosystem services in global marine kelp forests. Nat Commun. 2023 Apr 18;14(1):1894. doi: 10.1038/s41467-023-37385-0. Erratum in: Nat Commun. 2023 May 18;14(1):2841. doi: 10.1038/s41467-023-38666-4. PMID: 37072389; PMCID: PMC10113392.
-<br>
+<br><br>
 Pan, Y., Birdsey, R.A., Phillips, O.L. et al. The enduring world forest carbon sink. Nature631, 563–569 (2024). https://doi.org/10.1038/s41586-024-07602-x.
-<br>
+<br><br>
 Laffoley, D. and Grimsditch, G.D., 2009. The management of natural coastal carbon sinks. IUCN, Gland, Switzerland.
-<br>
+<br><br>
 Alongi, D. M., 2012. Carbon sequestration in mangrove forests. Carbon Management, 3(4), 313- 322.
 ### Aim
 Create a graph to compare carbon sequestration in different types of ecosystems, including kelp forests of different genera. 
@@ -117,12 +118,13 @@ Rate of carbon sequestration for 6 genera of kelp (Ecklonia, Laminaria, Lessonia
 ### Notebook
 wip
 ### References
-WWF (2024) Living Planet Report 2024 – A System in Peril. WWF, Gland, Switzerland.<br>
+WWF (2024) Living Planet Report 2024 – A System in Peril. WWF, Gland, Switzerland.
+<br><br>
 Deinet S, Marconi V, Freeman R, Puleston H, McRae L. Living Planet Report 2024 Technical Supplement: Living Planet Index. ZSL, 2024. https://doi.org/10.17605/OSF.IO/6TE9H
 ### Aim
-Calculate and display the marine LPI (Living Planet Index) between 1970 and 2020.
+Calculate and display the LPI (Living Planet Index) between 1970 and 2020 for marine species.
 ### Info
-The marine LPI was determined by bootstrapping (10.000 repeats of 500 randomly selected species).
+The marine LPI was determined by bootstrapping (10.000 repeats of 500 randomly selected species populations).
 ### Preview
 
 
