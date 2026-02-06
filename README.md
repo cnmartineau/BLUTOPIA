@@ -13,6 +13,8 @@ shops_map.ipynb
 Create an interactive store locator to help people find shops that sell seaweeds in France.<br>
 Shops are clustered and displayed by category.<br>
 Shop addresses are displayed in interactive labels, wich are also links to redirect users to shop websites.<br>
+### Preview
+<img width="600" height="600" alt="shops_map" src="https://github.com/user-attachments/assets/37934fd0-b7df-4162-91e1-62bd084f52a9" />
 <br>
 
 ## Nutrients
