@@ -4,8 +4,8 @@ Blutopia is a recognised non-profit organisation based in La Rochelle, France, w
 https://blutopia.org
 <br><br>
 Creation of interactive visuals for the website of the upcoming campaign "Les Bonnes Vivantes".
+<br><br>
 
-<br>
 ## Store locator
 ### Notebook
 shops_map.ipynb
@@ -13,7 +13,7 @@ shops_map.ipynb
 Create an interactive store locator to help people find shops that sell seaweeds in France.
 Shops are clustered and displayed by category.
 Shop addresses are displayed in interactive labels, wich are also links to redirect users to shop websites.
-<br>
+<br><br>
 
 ## Nutrients
 ### Notebook
@@ -28,4 +28,6 @@ Compare seaweed composition to some relevant common food (wip).
 ### Info
 Numerical values are given in grams of nutrient for 100g of dehydrated seaweed.
 
+
+<br><br>
 ... wip ... more to come soon ...
