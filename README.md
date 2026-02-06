@@ -1,13 +1,29 @@
 # BLUTOPIA
-Data visualisation for the NGO Blutopia - ongoing work  
-Visuals for the upcoming campaign "Les Bonnes Vivantes".
+Blutopia is a recognised non-profit organisation based in La Rochelle, France, whose mission is to reinvent our food system in order to preserve the ocean.
+<br>
+https://blutopia.org
+<br><br>
+Creation of interactive visuals for the website of the upcoming campaign "Les Bonnes Vivantes".
 
-## Shop map
-Creation of an interactive map of France, which displays shops that sell seaweeds.
-Shop addresses are included in an interactive label, wich is clickable to send the user the shop website.
+## Store locator
+### Notebook
+shops_map.ipynb
+### Aim
+Create an interactive store locator to help people find shops that sell seaweeds in France.
+Shops are clustered and displayed by category.
+Shop addresses are displayed in interactive labels, wich are also links to redirect users to shop websites.
 
 ## Nutrients
-Creation of a heatmap to display main nutrient composition of relevant seaweeds.
-Values are grams of nutrients for 100g of dehydrated seaweed.
+### Notebook
+nutrients.ipynb
+### References
+CEVA - Composition nutritionnelle des algues
+<br>
+https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues-alimentaires/
+### Aim
+Create a heatmap to display main macronutrient composition of relevant seaweeds.
+Compare seaweed composition to some relevant common food (wip).
+### Info
+Numerical values are given in grams of nutrient for 100g of dehydrated seaweed.
 
 ... wip ... more to come soon ...
