@@ -10,10 +10,10 @@ Creation of interactive visuals for the website of the upcoming campaign "Les Bo
 ### Notebook
 shops_map.ipynb
 ### Aim
-Create an interactive store locator to help people find shops that sell seaweeds in France.
-Shops are clustered and displayed by category.
-Shop addresses are displayed in interactive labels, wich are also links to redirect users to shop websites.
-<br><br>
+Create an interactive store locator to help people find shops that sell seaweeds in France.<br>
+Shops are clustered and displayed by category.<br>
+Shop addresses are displayed in interactive labels, wich are also links to redirect users to shop websites.<br>
+<br>
 
 ## Nutrients
 ### Notebook
@@ -23,7 +23,7 @@ CEVA - Composition nutritionnelle des algues
 <br>
 https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues-alimentaires/
 ### Aim
-Create a heatmap to display main macronutrient composition of relevant seaweeds.
+Create a heatmap to display main macronutrient composition of relevant seaweeds.<br>
 Compare seaweed composition to some relevant common food (wip).
 ### Info
 Numerical values are given in grams of nutrient for 100g of dehydrated seaweed.
