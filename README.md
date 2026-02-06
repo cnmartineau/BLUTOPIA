@@ -4,8 +4,8 @@ Blutopia is a recognised non-profit organisation based in La Rochelle, France, w
 https://blutopia.org
 <br><br>
 Creation of interactive visuals for the website of the upcoming campaign "Les Bonnes Vivantes".
-<br>
 
+<br>
 ## Store locator
 ### Notebook
 shops_map.ipynb
