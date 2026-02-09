@@ -116,7 +116,7 @@ Rate of carbon sequestration for 6 genera of kelp (Ecklonia, Laminaria, Lessonia
 
 ## Environment section - Living Planet Index
 ### Notebook
-wip
+lpi_d.ipynb
 ### References
 WWF (2024) Living Planet Report 2024 – A System in Peril. WWF, Gland, Switzerland.
 <br><br>
@@ -125,7 +125,9 @@ Deinet S, Marconi V, Freeman R, Puleston H, McRae L. Living Planet Report 2024 T
 Calculate and display the LPI (Living Planet Index) between 1970 and 2020 for marine species.
 ### Info
 The marine LPI was determined by bootstrapping (10.000 repeats of 500 randomly selected species populations).
+The graph displays the mean and the standard error of the mean for these repeats.
 ### Preview
+<img width="700" height="500" alt="lpi" src="https://github.com/user-attachments/assets/d535eded-0d4f-411d-9ccc-0e4903a8c7ab" />
 
 
 
