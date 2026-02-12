@@ -21,13 +21,18 @@ Shop addresses are displayed in interactive labels, wich are also links to redir
 ## Health section - Macronutrients
 ### Notebook
 nutrients.ipynb
-### Reference
+### References
 CEVA - Composition nutritionnelle des algues
 <br>
 https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues-alimentaires/
+<br>
+Ciqual - Table de composition nutritionnelle des aliments
+<br>
+https://ciqual.anses.fr
 ### Aim
 Create a heatmap to display main macronutrient composition of relevant seaweeds.<br>
-Compare seaweed composition to some relevant common food (wip).
+Compare seaweed composition to some relevant common food.<br>
+Add scale and icons (wip).
 ### Info
 Numerical values are given in grams of nutrient for 100g of dehydrated seaweed.
 ### Preview
