@@ -36,7 +36,7 @@ Add scale and icons (wip).
 ### Info
 Numerical values are given in grams of nutrient for 100g of dehydrated seaweed.
 ### Preview
-<img width="800" height="800" alt="nutrients" src="https://github.com/user-attachments/assets/f352a760-83a8-4ae3-95d7-d1350440a419" />
+<img width="800" height="800" alt="nutrients" src="https://github.com/user-attachments/assets/25fe3947-99b1-4880-9868-f725f2a4ad50" />
 <br>
 
 ## Health section - Minerals
