@@ -50,13 +50,18 @@ https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues
 Ciqual - Table de composition nutritionnelle des aliments
 <br>
 https://ciqual.anses.fr
+<br><br>
+Anses - Les références nutritionnelles en vitamines et minéraux
+<br>
+https://www.anses.fr/fr/content/les-references-nutritionnelles-en-vitamines-et-mineraux
 ### Aim
 Create a heatmap to display main mineral composition of relevant seaweeds.<br>
-Compare seaweed composition to some relevant common food (wip).
+Compare seaweed composition to some relevant common food.
 ### Info
-Numerical values are given in milligrams of mineral for 100g of dehydrated seaweed.
+For seaweeds, numerical values are given in grams of nutrient for 100 grams of dehydrated seaweed.<br>
+For other types of food, numerical values are given in grams of nutrient for 100 grams of food.
 ### Preview
-<img width="1200" height="800" alt="minerals" src="https://github.com/user-attachments/assets/93258257-369a-4670-95a0-09edfcfed94f" />
+<img width="1400" height="800" alt="minerals" src="https://github.com/user-attachments/assets/ff1130e4-bda5-42cb-940d-ebe064ebfb76" />
 <br>
 
 ## Health section - Iodine
