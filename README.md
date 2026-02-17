@@ -25,7 +25,7 @@ nutrients.ipynb
 CEVA - Composition nutritionnelle des algues
 <br>
 https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues-alimentaires/
-<br>
+<br><br>
 Ciqual - Table de composition nutritionnelle des aliments
 <br>
 https://ciqual.anses.fr
@@ -45,7 +45,7 @@ minerals.ipynb
 CEVA - Composition nutritionnelle des algues
 <br>
 https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues-alimentaires/
-<br>
+<br><br>
 Ciqual - Table de composition nutritionnelle des aliments
 <br>
 https://ciqual.anses.fr
