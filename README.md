@@ -32,20 +32,23 @@ https://ciqual.anses.fr
 ### Aim
 Create a heatmap to display main macronutrient composition of relevant seaweeds.<br>
 Compare seaweed composition to some relevant common food.<br>
-Add scale and icons (wip).
 ### Info
 Numerical values are given in grams of nutrient for 100g of dehydrated seaweed.
 ### Preview
-<img width="800" height="800" alt="nutrients" src="https://github.com/user-attachments/assets/6e3b440c-347c-4987-870f-ecf4f2fc7df4" />
+<img width="800" height="800" alt="nutrients" src="https://github.com/user-attachments/assets/24dc3471-ee18-4784-990c-5c8b7bc84955" />
 <br>
 
 ## Health section - Minerals
 ### Notebook
 minerals.ipynb
-### Reference
+### References
 CEVA - Composition nutritionnelle des algues
 <br>
 https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues-alimentaires/
+<br>
+Ciqual - Table de composition nutritionnelle des aliments
+<br>
+https://ciqual.anses.fr
 ### Aim
 Create a heatmap to display main mineral composition of relevant seaweeds.<br>
 Compare seaweed composition to some relevant common food (wip).
