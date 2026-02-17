@@ -33,7 +33,8 @@ https://ciqual.anses.fr
 Create a heatmap to display main macronutrient composition of relevant seaweeds.<br>
 Compare seaweed composition to some relevant common food.<br>
 ### Info
-Numerical values are given in grams of nutrient for 100g of dehydrated seaweed.
+For seaweeds, numerical values are given in grams of nutrient for 100 grams of dehydrated seaweed.<br>
+For other types of food, numerical values are given in grams of nutrient for 100 grams of food.
 ### Preview
 <img width="800" height="800" alt="nutrients" src="https://github.com/user-attachments/assets/24dc3471-ee18-4784-990c-5c8b7bc84955" />
 <br>
