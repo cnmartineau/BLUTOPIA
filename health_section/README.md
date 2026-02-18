@@ -21,8 +21,8 @@ https://ciqual.anses.fr
 Create a heatmap to display main macronutrient composition of relevant seaweeds.<br>
 Compare seaweed composition to some relevant common food.<br>
 ### Info
-For seaweeds, numerical values are given in grams of nutrient for 100 grams of dehydrated seaweed.<br>
-For other types of food, numerical values are given in grams of nutrient for 100 grams of food.
+For seaweeds, numerical values are given in grams of nutrient per 100 grams of dehydrated seaweed.<br>
+For other types of food, numerical values are given in grams of nutrient per 100 grams of food.
 ### Preview
 <img width="800" height="800" alt="nutrients" src="https://github.com/user-attachments/assets/24dc3471-ee18-4784-990c-5c8b7bc84955" />
 <br>
@@ -46,10 +46,11 @@ https://www.anses.fr/fr/content/les-references-nutritionnelles-en-vitamines-et-m
 Create a heatmap to display main mineral composition of relevant seaweeds.<br>
 Compare seaweed composition to some relevant common food.
 ### Info
-For seaweeds, numerical values are given in grams of nutrient for 100 grams of dehydrated seaweed.<br>
-For other types of food, numerical values are given in grams of nutrient for 100 grams of food.
+For seaweeds, numerical values are given in grams of nutrient per 100 grams of dehydrated seaweed.<br>
+For other types of food, numerical values are given in grams of nutrient per 100 grams of food.<br>
+AS: Apport Satisfaisant; BNM: Besoin Nutritionnel Moyen
 ### Preview
-<img width="1400" height="800" alt="minerals" src="https://github.com/user-attachments/assets/ff1130e4-bda5-42cb-940d-ebe064ebfb76" />
+<img width="1400" height="800" alt="minerals" src="https://github.com/user-attachments/assets/1290176a-80f1-469f-9ff2-e006fb66abd6" />
 <br>
 
 ## Health section - Iodine
@@ -63,7 +64,7 @@ https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues
 Create a bar graph to display iodine concentration for relevant seaweeds.<br>
 Compare seaweeds to some relevant common food (wip).
 ### Info
-Numerical values are given in milligrams of iodine for 100g of dehydrated seaweed.
+Numerical values are given in milligrams of iodine per 100g of dehydrated seaweed.
 ### Preview
 <img width="800" height="800" alt="iodine" src="https://github.com/user-attachments/assets/770f8bef-f3ad-4505-82a8-85955d15a163" />
 <br>
