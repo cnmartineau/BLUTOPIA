@@ -62,11 +62,11 @@ CEVA - Composition nutritionnelle des algues
 https://www.ceva-algues.com/document/fiches-de-composition-nutritionnelle-algues-alimentaires/
 ### Aim
 Create a bar graph to display iodine concentration for relevant seaweeds.<br>
-Compare seaweeds to some relevant common food (wip).
+Add a warning for kelp (icon and comment).
 ### Info
 Numerical values are given in milligrams of iodine per 100g of dehydrated seaweed.
 ### Preview
-<img width="800" height="800" alt="iodine" src="https://github.com/user-attachments/assets/770f8bef-f3ad-4505-82a8-85955d15a163" />
+<img width="600" height="500" alt="iodine" src="https://github.com/user-attachments/assets/512e9055-b4be-4666-b90f-75c268294252" />
 <br>
 
 ## Health section - Iodine per day
