@@ -91,4 +91,6 @@ Relate to iodine intake with 1, 2, and 5 grams of 3 different seaweeds.
 Numerical values are given in micrograms of iodine per day.<br>
 For each seaweed, quantities of iodine were calculated for dehydrated algae.
 ### Preview
-<img width="800" height="400" alt="iodineperday" src="https://github.com/user-attachments/assets/ffa5f147-ef39-4a77-a496-5f7c7e66925d" />
+<img width="800" height="400" alt="iodineperday" src="https://github.com/user-attachments/assets/77eb86fd-8890-4f17-a24f-70910d25ff50" />
+
+
