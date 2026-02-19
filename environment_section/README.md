@@ -22,11 +22,11 @@ Laffoley, D. and Grimsditch, G.D., 2009. The management of natural coastal carbo
 <br><br>
 Alongi, D. M., 2012. Carbon sequestration in mangrove forests. Carbon Management, 3(4), 313- 322.
 ### Aim
-Create a graph to compare carbon sequestration in different types of ecosystems, including kelp forests of different genera. 
+Create a graph to compare carbon capture from kelp forests to different types of ecosystems. 
 ### Info
-Rate of carbon sequestration for 6 genera of kelp (Ecklonia, Laminaria, Lessonia, Macrocystis, Nereocystis et Saccharina) given in g/m2/year.
+The rate of carbon capture is given in g/m2/year.
 ### Preview
-<img width="600" height="500" alt="carbon_sinks" src="https://github.com/user-attachments/assets/88368131-8b71-4f5c-9fb8-5eddf6916636" />
+<img width="400" height="350" alt="carbon_sinks" src="https://github.com/user-attachments/assets/59f702ee-48c6-4a9f-b7fc-d420242f2878" />
 <br>
 
 ## Environment section - Living Planet Index
