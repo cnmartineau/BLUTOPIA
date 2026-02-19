@@ -26,7 +26,7 @@ Create a graph to compare carbon capture from kelp forests to different types of
 ### Info
 The rate of carbon capture is given in g/m2/year.
 ### Preview
-<img width="400" height="350" alt="carbon_sinks" src="https://github.com/user-attachments/assets/92f78043-d80e-4fce-b230-23ae79170e24" />
+<img width="400" height="350" alt="carbon_sinks" src="https://github.com/user-attachments/assets/3bff6519-c2e0-4687-b8f9-9a9ee2c31b1c" />
 <br>
 
 ## Environment section - Living Planet Index
