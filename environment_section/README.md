@@ -37,9 +37,10 @@ WWF (2024) Living Planet Report 2024 – A System in Peril. WWF, Gland, Switzerl
 <br><br>
 Deinet S, Marconi V, Freeman R, Puleston H, McRae L. Living Planet Report 2024 Technical Supplement: Living Planet Index. ZSL, 2024. https://doi.org/10.17605/OSF.IO/6TE9H
 ### Aim
-Calculate and display the LPI (Living Planet Index) between 1970 and 2020 for marine species.
+Calculate and display the LPI (Living Planet Index) for marine species between 1970 and 2020.
 ### Info
-The marine LPI was determined by bootstrapping (10.000 repeats of 500 randomly selected species populations).
-The graph displays the mean and the standard error of the mean for these repeats.
+The marine LPI was determined by bootstrapping (1.000 repeats of 500 randomly selected species populations).
+The graph displays the mean LPI and 99% confidence intervals.
 ### Preview
-<img width="700" height="500" alt="lpi" src="https://github.com/user-attachments/assets/d535eded-0d4f-411d-9ccc-0e4903a8c7ab" />
+<img width="550" height="400" alt="lpi" src="https://github.com/user-attachments/assets/32ce6eb6-5f17-414a-8475-d2ac3ab69e29" />
+
