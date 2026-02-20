@@ -3,7 +3,7 @@ Blutopia is a recognised non-profit organisation based in La Rochelle, France, w
 <br>
 https://blutopia.org
 <br><br>
-Creation of interactive visuals for the website of the upcoming campaign "Les Bonnes Vivantes".
+As a member of Blutopia, I create interactive visuals for the website of the upcoming campaign "Les Bonnes Vivantes", about the super powers of seaweeds.
 <br><br>
 
 <br><br>
