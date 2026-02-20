@@ -18,5 +18,5 @@ Create an interactive map of macroalgae producers in Europe.
 ### Info
 Producers are indicated as registered in 2020.
 ### Preview
-<img width="750" height="500" alt="producers" src="https://github.com/user-attachments/assets/678882bc-07d0-46e7-9028-de194712a14b" />
+<img width="750" height="500" alt="producers" src="https://github.com/user-attachments/assets/7bfc2f1a-ae01-4be1-a2ae-265db7c87032" />
 <br>
