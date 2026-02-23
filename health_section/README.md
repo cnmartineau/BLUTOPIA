@@ -42,15 +42,18 @@ https://ciqual.anses.fr
 Anses - Les références nutritionnelles en vitamines et minéraux
 <br>
 https://www.anses.fr/fr/content/les-references-nutritionnelles-en-vitamines-et-mineraux
+<br><br>
+Efsa - Scientific Opinion on Dietary Reference values for manganese
+<br>
+https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3419
 ### Aim
 Create a heatmap to display main mineral composition of relevant seaweeds.<br>
 Compare seaweed composition to some relevant common food.
 ### Info
 For seaweeds, numerical values are given in grams of nutrient per 100 grams of dehydrated seaweed.<br>
 For other types of food, numerical values are given in grams of nutrient per 100 grams of food.<br>
-AS: Apport Satisfaisant; BNM: Besoin Nutritionnel Moyen
 ### Preview
-<img width="1400" height="800" alt="minerals" src="https://github.com/user-attachments/assets/1290176a-80f1-469f-9ff2-e006fb66abd6" />
+<img width="1500" height="800" alt="minerals" src="https://github.com/user-attachments/assets/92d8a585-e3af-4a36-8e74-d77592a0e700" />
 <br>
 
 ## Health section - Iodine
